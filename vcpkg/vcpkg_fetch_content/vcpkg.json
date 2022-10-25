@@ -1,0 +1,11 @@
+{
+  "name": "benjamin-myapp",
+  "version-string": "0.1.0",
+  "dependencies": [
+    {
+      "name": "jsoncpp",
+      "version>=": "1.9.5"
+    }
+  ],
+  "builtin-baseline": "94ce0dab56f4d8ba6bd631ba59ed682b02d45c46"
+}
